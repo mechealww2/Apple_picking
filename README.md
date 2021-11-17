@@ -1,2 +1,2 @@
 # Apple_picking
-An apple picking system based on 
+An apple picking vision system based on ROS (robot operating system)--http://wiki.ros.org/
